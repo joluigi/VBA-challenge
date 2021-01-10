@@ -1,5 +1,7 @@
 # VBA-challenge
-This is the Homework no. 2: The VBA of Wall Street from Jose Vazquez
+This is the Homework no. 2: The VBA of Wall Street from Jose Vazquez.
+
+Outcome screenshots
 
 Data from 2016
 ![](Hw2-VBA-2016data.jpg)
