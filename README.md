@@ -1,6 +1,8 @@
 # VBA-challenge
 This is the Homework no. 2: The VBA of Wall Street from Jose Vazquez.
 
+Columns BOY and EOY were included in order to make it easier to compare results for Open and Close positions
+
 Outcome screenshots
 
 Data from 2016
